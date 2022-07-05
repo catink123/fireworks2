@@ -1,0 +1,15 @@
+{
+  "name": "fireworks2",
+  "version": "1.0.0",
+  "description": "Fireworks in Typescript",
+  "repository": "https://github.com/catink123/fireworks2",
+  "author": "Catink123 <qwerty.qaz120@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "scripts": {
+    "serve": "parcel ."
+  },
+  "source": "src/index.html"
+}
